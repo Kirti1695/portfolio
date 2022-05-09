@@ -1,0 +1,166 @@
+body {
+  /* #e8fbfc */
+  /* background-color: #ceeff0; */
+  margin: 0;
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  /* it centers everything which doesnt have a width set */
+}
+
+h1 {
+  font-size: 4.8rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+.descr{
+  margin-left: 200px;
+  margin-top: 0;
+  margin-bottom: 0;
+  /* font-size: .7rem; */
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cloud {
+  width: 135px;
+  height: 70px;
+}
+
+.bottom {
+  position: absolute;
+  top: 300px;
+  left: 218px;
+}
+
+.top {
+  position: absolute;
+  margin-right: 50px;
+  right: 189px;
+  top: 75px;
+}
+
+.mountain {
+  width: 600px;
+  margin-top: 70px;
+}
+
+.top-container {
+  /* background-color: #ceeff0; */
+  background-color: #e8fbfc;
+  position: relative;
+  padding-top: 175px;
+}
+
+.bottom-container {
+  padding-bottom: 10px;
+}
+
+.horizontal {
+  width: 30%;
+  margin: auto;
+  border-top: 7px dotted #217685;
+  /* color: #217685;  */
+}
+
+.resume{
+  font-size: 1.1rem;
+  position : absolute;
+  top: 10px;
+  right: 20px;
+  /* margin-left: 110px;
+  margin-bottom: 200px; */
+}
+
+.btn{
+  /* background-color: white; */
+  border-radius: 6px;
+  border-color: #2389a6;
+  background-color: #2389a6;
+  box-shadow: 3px 3px #b3b1b1;
+  padding: 5px 10px;
+  /* font-color: white; */
+  /* background-color: white; */
+  color: white;
+  font-size: 18px;
+  /* font-weight: bold; */
+}
+
+.btn:hover{
+  cursor: pointer;
+  transform: scale(1.2);
+  background-color: white;
+  color: #2389a6;
+  font-weight: bold;
+}
+.topc {
+  width: 80%;
+  margin: auto;
+  background-color: #e8fbfc;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.icon {
+  height: 30px;
+  width: 33px;
+}
+
+.icon-1{
+  width: 25px;
+  height: 25px;
+}
+.img-icon {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.text1 {
+  display: inline-block;
+  /* margin-top: 10px; */
+  margin: 0 15px 0 15px;
+}
+
+.text {
+  line-height: 220%;
+  width: 65%;
+  margin: auto;
+}
+
+.profile {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.p-image {
+  height: 135px;
+  width: 130px;
+  border-radius: 50%;
+}
+
+.hobbies {
+  display: inline-block;
+  margin: 20px 50px 0 50px;
+}
+
+.hobbies-img {
+  width: 200px;
+  height: 160px;
+}
+
+.table-cell {
+  padding: 10px 40px 10px 40px;
+  width: 150px;
+}
+
+.table {
+  margin: auto;
+}
